@@ -12,9 +12,9 @@
 
 それぞれのスクリプトが特定の機能を担当し、OOPの原則に従っています。
 
-PlayerController：プレイヤーからのインポートを制御する。
-AIController：AIからのインポートを制御する。
-Character：プレイヤーやAIの共通のロジックを制御する。
-GameManager：ゲームの進行やルールを管理する。
-WaveManager：ゲーム内の敵のウェーブを制御する。敵の出現タイミングや数などを管理する。
+PlayerController：プレイヤーからのインポートを制御する。<br>
+AIController：AIからのインポートを制御する。<br>
+Character：プレイヤーやAIの共通のロジックを制御する。<br>
+GameManager：ゲームの進行やルールを管理する。<br>
+WaveManager：ゲーム内の敵のウェーブを制御する。敵の出現タイミングや数などを管理する。<br>
 UIManager：ヘルスバー、タイマー、メニューなどのUI要素を制御する。
